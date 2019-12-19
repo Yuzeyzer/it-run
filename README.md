@@ -1,11 +1,11 @@
-##Atabek Kurbanov
-##contact:
-#####*1 phone nubmer: +996773152695*
-#####*2 email: kurbanof.atabek@gmail.com*
-###Summary:
+## Atabek Kurbanov
+## contact:
+##### *1 phone nubmer: +996773152695*
+##### *2 email: kurbanof.atabek@gmail.com*
+### Summary:
 Dynamic and motivated professional with a proven record of generating and building relationships, managing projects from concept to completion, designing educational strategies, and coaching individuals to success. Skilled in building cross-functional teams, demonstrating exceptional communication skills, and making critical decisions during challenges. Adaptable and transformational leader with an ability to work independently, creating effective presentations, and developing opportunities that further establish organizational goals.
 
-##skills: 
+## Skills: 
 1.Broad and extensive knowledge of the software development process and its technologies
 
 2.Strong knowledge of computer languages, such as Java, C++, PHP, and SQL
@@ -18,7 +18,7 @@ Dynamic and motivated professional with a proven record of generating and buildi
 
 6.Experience with database creation and maintenance
 
-##Code example:
+## Code example:
 char peek()
 {
   char ch = EOF;
@@ -246,16 +246,16 @@ Finish:
 
   return xs.top();
 }
-##Опыт работы:
+## Опыт работы:
 Разрабатывал приложение для детей с особенностями в развитии, в результате приложение стало востребовано, как для родителей «особых» детей, так и для терапевтов. Приложение состоит из мобильной части для пользователей и веб-сайта для администратора с возможностями контролирования пользователей.
 Возможности приложения:
 — запись видео сеансов, передача видеофайлов с приложения на веб-сайт;
 — запись данных вручную внутри приложения: время проведения терапии, симптомы и их тяжесть;
 — составление графиков анализа симптомов.
 
-##Образование: 
+## Образование: 
 Банковское Дело и страхование 
 Front - end Developer
 
-##Уровень английского:
+## Уровень английского:
 Intermediate
