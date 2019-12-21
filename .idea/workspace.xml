@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04f7b7a6-dd06-4400-9b0f-baacb2b298ea" name="Default Changelist" comment="" />
+    <list default="true" id="a9725e6a-1e17-4b04-bcce-e7a6efc5951c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1VCcKX92G7R97P3K9y6Y4NsAomf" />
+  <component name="ProjectId" id="1VHuysMTyIMwA1L0oDpO7n9Fq5Q" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -32,27 +29,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04f7b7a6-dd06-4400-9b0f-baacb2b298ea" name="Default Changelist" comment="" />
-      <created>1576760453930</created>
+      <changelist id="a9725e6a-1e17-4b04-bcce-e7a6efc5951c" name="Default Changelist" comment="" />
+      <created>1576922599460</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576760453930</updated>
-      <workItem from="1576760455197" duration="2486000" />
+      <updated>1576922599460</updated>
+      <workItem from="1576922602060" duration="10893000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
